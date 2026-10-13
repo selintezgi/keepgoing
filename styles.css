@@ -1,0 +1,45 @@
+body {
+    height: 1000px;
+}
+
+
+.red {
+    color: red;
+}   
+
+.blue {
+    color: blue;
+}
+
+.pink {
+    color: pink;
+}
+
+.buyukluk {
+    font-size: 30px;
+}
+
+.background {
+    background-color: rgb(248, 163, 244);
+}
+
+.poz {
+    position: relative;
+    top: 10px;
+    left: 50px;
+}
+
+.fix {
+    position: fixed;
+    top: 10px;
+    left: 150px;
+    margin: 50px;
+    padding: 50px;
+}
+
+#id {
+    background-color: rgb(248, 163, 244);
+    color: white;
+    font-size: 30px;
+}
+
